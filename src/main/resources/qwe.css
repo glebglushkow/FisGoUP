@@ -1,0 +1,9 @@
+.tab-pane .tab-header-area .tab {
+    -fx-pref-height: 150;
+    -fx-pref-width: 50;
+}
+
+.label {
+    -fx-rotate: 0;
+    -fx-font-style: italic;
+}
